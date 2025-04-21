@@ -1,7 +1,7 @@
 ### Hello World 👾
 
-- 🔭 Atualmente trabalhando como Assistente Planejanejamento JR
-- 🌱 Estudando Engenharia de Software, Desenvolvimento de Software Multiplataforma
+- 🔭 Atualmente trabalhando como Analista de Trafego JR
+- 🌱 Formado em Engenharia de Software com Pós-Graduação em Desenvolvimento de Sistemas com Python
 
 
 
